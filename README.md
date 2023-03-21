@@ -10,7 +10,7 @@ India</h3>
 
 - 🌱 I’m intermediate knowledge **Python, Django,HTML,**
 
-- 📫 How to reach me **sameermalik122333@gmail.com**
+- 📫 How to reach me **sameermalik0131@gmail.com**
 
 - ⚡ Fun fact **I think I am dancer**
 
